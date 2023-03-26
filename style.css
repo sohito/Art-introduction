@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+header {
+  background: orange;
+}
+
+main {
+    margin: 0;
+}
+
+.container {
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+  background: #eee;
+  padding: 32px;
+}
